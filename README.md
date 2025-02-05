@@ -3,7 +3,7 @@
 ## Overview
 
 The **Collatz Conjecture Visualizer** is a web application that allows users to explore the fascinating Collatz conjecture through an interactive graphical representation. 
-
+Link to visualizer: https://cookie-int.github.io/Collatz-Conjecture-Visualizer/
 ## Features
 
 - **Interactive Graph**: Visualizes the Collatz sequence with responsive line graphs and hover effects.
